@@ -1,2 +1,2 @@
 print("My name is Malvin")
-print("I like python")
+print("I like C++")
